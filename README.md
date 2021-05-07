@@ -6,4 +6,4 @@ So i'm just guy from Czech Republic who happens to be 17 years old. I live in sm
 
  - Godot Game Dev 💾
  - Godot Engine Networking 🖧
- - Pixel Art Talent 🖌️ (in progress)
+ - ~~Pixel Art Talent 🖌️ (in progress)~~
