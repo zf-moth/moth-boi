@@ -7,3 +7,5 @@ So i'm just guy from Czech Republic who happens to be 18 years old. I live in sm
  - Godot Game Dev 💾
  - Godot Engine Networking 🖧
  - ~~Pixel Art Talent 🖌️ (in progress)~~
+
+<img src="https://www.codewars.com/users/zf_MotH/badges/large">
