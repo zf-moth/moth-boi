@@ -4,7 +4,7 @@ So i'm just guy from Czech Republic who happens to be 18 years old. I live in sm
 
 ### Skills 👨‍💻
 
- - Godot Game Dev 💾
+ - Godot/Unity Game Dev 💾
  - Godot Engine Networking 🖧
  - ~~Pixel Art Talent 🖌️ (in progress)~~
 
